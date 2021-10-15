@@ -1,0 +1,1 @@
+Thsi is the repository for the codes used for the conversion of Kerala Migration Survey 1998 to 2018 (5 waves)into long panel data. It was used for the foreign remittances and Kerala economic development project 
