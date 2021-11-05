@@ -1,1 +1,7 @@
-Thsi is the repository for the codes used for the conversion of Kerala Migration Survey 1998 to 2018 (5 waves)into long panel data. It was used for the foreign remittances and Kerala economic development project 
+This is the repository of codes used for the conversion of Kerala Migration Survey 1998 to 2018 (5 waves) into long panel data. It was used for the foreign remittances and Kerala economic development project. 
+
+Data used: Kerala Migration Survey (1998-2018) 
+
+Web scraping GVA - codes for webscraping the district level gross value added for all the districts of Kerala.
+Extraction and Cleaning Panel 1998-2018 - codes for primarily extracting and arranging the data inorder to facilitate further cleaning.
+Extract- Run after the above script to obtain the cleaned long panel data.
